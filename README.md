@@ -63,8 +63,5 @@
 <a href="mailto:mrgopal10101@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
- 📧 **mrgopal10101@gmail.com**
 </p>
-
-📍 Mathura, India
 ⭐ "Building the future with AI, one project at a time."
